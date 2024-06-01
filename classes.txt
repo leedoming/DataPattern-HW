@@ -1,0 +1,9 @@
+judge
+batter
+catcher
+pitcher
+infielder
+outfielder
+runner
+infielder44
+r
